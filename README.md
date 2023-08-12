@@ -1,20 +1,9 @@
-<!-- markdownlint-configure-file
-{
-  "line-length": false,
-  "no-inline-html": false
-}
--->
-
-# ARCHIVED
-
-null-ls is now archived and will no longer receive updates. Please see
-[this issue](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1621) for
-details.
-
 # null-ls.nvim
 
 Use Neovim as a language server to inject LSP diagnostics, code actions, and
 more via Lua.
+
+Originally forked from https://github.com/jose-elias-alvarez/null-ls.nvim.
 
 ## Motivation
 
